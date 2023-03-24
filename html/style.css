@@ -1,0 +1,16 @@
+body{background-color:black;
+    text-align:center;}
+      
+      h1{color:red;
+        font-family:arial;
+      font-size:27px;}
+      
+      h2,h4{color:white;}
+      h2{font-size:33px;}
+      
+      a{color:red;}
+      
+      p{color:white;
+      background-color:gray;}
+
+      .fundoazul{background-color:aqua;}
